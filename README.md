@@ -1,5 +1,6 @@
 ﻿# PolymerMFR
 This project is a study of the Polymer Melt Flow Rate (MFR) and the correlation with other labels, and the main research purpose is to find the best ML algorithm to predict MFR based on the dataset in this link: http://apmonitor.com/pds/index.php/Main/PolymerMeltFlowRate
+This project is a contribution to this github repo: https://github.com/APMonitor/pds/tree/main/MFR_Regression
 # Background: 
 There are gas phase and liquid slurry reactors that create polymers (polyethylene,
 polypropylene, polystyrene, and others) from chemical building blocks known as monomers
