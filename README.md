@@ -8,6 +8,13 @@ controlled temperature and pressure conditions to cause a reaction that grows th
 chains. Hydrogen is a chain transfer agent to stop the growth of the polymer chain. If the
 polymer chains grow too long then the polymer is too viscous for manufacturing in films,
 injection molding, or other applications.
+# Trends Over time:
+![Figure_1](https://github.com/HamzaKaddour/PolymerMFR/assets/163042229/40d11287-fd44-4569-9074-3c7710aa72b2)
+
+# Correlation Analysis:
+![Figure_4](https://github.com/HamzaKaddour/PolymerMFR/assets/163042229/31dd287d-b762-449f-8f3d-9842fdf0d91a)
+![mfr corr](https://github.com/HamzaKaddour/PolymerMFR/assets/163042229/2d82ae8c-cee9-4de9-946d-9a078b4658c5)
+
 # Contribution:
 Please do not hesitate to contribute to this project.
 # Authors:
